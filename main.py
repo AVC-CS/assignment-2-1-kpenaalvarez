@@ -12,8 +12,8 @@ def main():
     total = mnum + fnum
     m_perc = mnum / total * 100
     f_perc = fnum / total * 100
-    print(f'Percentage of male students: {m_perc:.2f}')
-    print(f'Percentage of female students: {f_perc:.2f}')
+    print(f'Percentage of male students: {m_perc:.2f}%')
+    print(f'Percentage of female students: {f_perc:.2f}%')
     
     """
     ########################################
